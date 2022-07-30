@@ -1,0 +1,19 @@
+// ========================================================
+// GZDoom DECORATE - Master
+// ========================================================
+
+// --- WEAPONS ---
+
+#include "actors/weapons.dec"
+
+// --- ITEMS ---
+
+#include "actors/items.dec"
+
+// --- ENEMIES ---
+
+#include "actors/enemies.dec"
+
+// --- PROPS ---
+
+#include "actors/props.dec"

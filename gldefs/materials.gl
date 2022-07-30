@@ -1,0 +1,61 @@
+// ========================================================
+// GZDoom GLDEFS - Materials
+// ========================================================
+	
+material texture SPK2_C
+	{
+		normal materials/SPK2/SPK2_N.png
+		metallic materials/SPK2/SPK2_M.png
+		roughness materials/SPK2/SPK2_R.png
+		ao materials/SPK2/SPK2_A.png
+	}
+	
+material texture DLPHN_C
+	{
+		normal materials/DLPHN/DLPHN_N.png
+		metallic materials/DLPHN/DLPHN_M.png
+		roughness materials/DLPHN/DLPHN_R.png
+		ao materials/DLPHN/DLPHN_A.png
+	}
+	
+
+material texture VELMA_C
+	{
+		normal materials/VELMA/VELMA_N.png
+		metallic materials/VELMA/VELMA_M.png
+		roughness materials/VELMA/VELMA_R.png
+		ao materials/VELMA/VELMA_A.png
+	}
+
+material texture FART_C
+	{
+		normal materials/FART/FART_N.png
+		metallic materials/FART/FART_M.png
+		roughness materials/FART/FART_R.png
+		ao materials/FART/FART_A.png
+	}
+	
+material texture MANINT1
+	{
+		normal materials/normalmaps/auto/MANINT1.png
+		metallic materials/metallic/auto/MANINT1.png
+		roughness materials/roughness/auto/MANINT1.png
+		ao materials/ao/auto/MANINT1.png
+	}
+	
+/*
+material texture DIRT1
+	{
+		// normal materials/normalmaps/auto/
+		// metallic materials/metallic/auto/
+		// roughness materials/roughness/auto/
+		// ao materials/ao/auto/
+		specularlevel 0
+		glossiness 0
+	}
+*/	
+	
+material texture METALP1
+	{
+		//auto
+	}
