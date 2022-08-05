@@ -59,3 +59,18 @@ material texture METALP1
 	{
 		//auto
 	}
+	
+material texture LWNCLIF1
+	{
+		//auto
+	}
+	
+material texture LWNCLIF2
+	{
+		//auto
+	}
+	
+material texture LAWN2
+	{
+		//auto
+	}

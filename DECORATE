@@ -17,3 +17,7 @@
 // --- PROPS ---
 
 #include "actors/props.dec"
+
+// --- DEBUG ---
+
+#include "actors/debug.dec"

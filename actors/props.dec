@@ -1,3 +1,7 @@
+// ========================================================
+// GZDoom DECORATE - PROPS
+// ========================================================
+
 Actor PALMTRE1 17000
 {
 	+FloorClip
@@ -47,7 +51,7 @@ actor SPEAKER2 19001
 	Height 8
 	States {
 		Spawn:
-		SPK2 A -1 NoDelay  A_StartSound("CAKE", 0, CHANF_LOOP) 
+		SPK2 A -1 NoDelay A_StartSound("CAKE", 0, CHANF_LOOP) 
 		Stop
 	}
 }
@@ -131,7 +135,7 @@ actor Z_PALM 19008
 	}
 }
 
-actor MMDTREE 19100
+actor MMDTREE 19020
 	{
 	+FloorClip
 	+SOLID

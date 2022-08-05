@@ -1,0 +1,37 @@
+// ========================================================
+// GZDoom DECORATE - DEBUG
+// ========================================================
+
+Actor DEMOZX00 30000 {
+		Health 999
+		Radius 32
+		Height 64
+		Mass 100
+		Speed 4
+		PainChance 0
+		Monster
+		XScale 0.25
+		YScale 0.25
+		+FLOORCLIP
+		+INTERPOLATEANGLES
+		States {
+			Spawn:
+			DEMO A 1 A_Wander
+			DEMO A 0 A_Look
+			DEMO A 2 A_Wander
+			DEMO A 0 A_Look
+			DEMO A 3 A_Wander
+			DEMO A 0 A_Look
+			DEMO A 4 A_Wander
+			DEMO A 0 A_Look
+			DEMO A 5 A_Wander
+			DEMO A 0 A_Look
+			DEMO A 6 A_Wander
+			DEMO A 0 A_Look
+			DEMO A 7 A_Wander
+			DEMO A 0 A_Look
+			DEMO A 8 A_Wander
+			DEMO A 0 A_Look
+			loop
+		}
+}
