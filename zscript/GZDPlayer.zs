@@ -1,9 +1,9 @@
-Class GZDPlayer : DoomPlayer {
-	default {
+Class GZDPlayer : DoomPlayer{
+	default{
 		Player.DisplayName "GZDPlayer";
 	}
-	override void BeginPlay() {
+	override void BeginPlay(){
 		Super.BeginPlay();
-		viewbob = 0.0;
+		viewbob = 0.1;
 	}
 }

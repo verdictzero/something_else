@@ -3,17 +3,20 @@
 // ========================================================
 
 Actor DEMOZX00 30000 {
-		Health 999
+		Health 2048
 		Radius 32
-		Height 64
-		Mass 100
-		Speed 4
+		Height 32
+		Mass 96
+		Speed 8
 		PainChance 0
 		Monster
-		XScale 0.25
-		YScale 0.25
+		XScale 0.15
+		YScale 0.15
+		MaxStepHeight 128
+		MaxDropOffHeight 128
 		+FLOORCLIP
 		+INTERPOLATEANGLES
+		+XFLIP
 		States {
 			Spawn:
 			DEMO A 1 A_Wander
