@@ -1,6 +1,8 @@
 // ========================================================
 // GZDoom GLDEFS - Materials
 // ========================================================
+
+/*
 	
 material texture SPK2_C
 	{
@@ -43,7 +45,10 @@ material texture MANINT1
 		ao materials/ao/auto/MANINT1.png
 	}
 	
+*/
+
 /*
+
 material texture DIRT1
 	{
 		// normal materials/normalmaps/auto/
@@ -53,8 +58,11 @@ material texture DIRT1
 		specularlevel 0
 		glossiness 0
 	}
-*/	
 	
+*/	
+
+/*
+
 material texture METALP1
 	{
 		//auto
@@ -74,3 +82,5 @@ material texture LAWN2
 	{
 		//auto
 	}
+	
+*/

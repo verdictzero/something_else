@@ -42,3 +42,13 @@ Skybox dashsky1
 	lskya_up
 	lskya_dn
 }
+
+Skybox zsky1
+{
+	zsky1_bk
+	zsky1_rt
+	zsky1_fr
+	zsky1_lf
+	zsky1_up
+	zsky1_dn
+}

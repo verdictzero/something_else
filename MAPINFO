@@ -83,6 +83,15 @@ map DEBUG "Debug"
 	NoIntermission
 }
 
+map DEBUG2 "Debug 2"
+{
+	LevelNum = 1001
+	Sky1 = "zsky1"
+	Music = "ROOMTONE"
+	SmoothLighting
+	NoIntermission
+}
+
 // ========================================================
 // Editor Numbers
 // ========================================================
@@ -93,4 +102,6 @@ DoomEdNums
 	19002 = DOLPHIN
 	19003 = VELMA
 	19005 = FOUNTART
+	30000 = Demo_Bird
+	30001 = Annoyatron
 }

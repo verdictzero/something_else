@@ -1,1 +1,6 @@
 #include "zscript/GZDPlayer.zs"
+
+// ------- ACTORS -------
+
+#include "zscript/actors/annoyatron.zs"
+#include "zscript/actors/demo_bird.zs"
