@@ -5,7 +5,7 @@ strictpatches = 0;
 maps
 {
 	
-	DEBUG2
+	DEBUG3
 	{
 		
 		resources
@@ -18,13 +18,14 @@ maps
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "G7_GRASS";
-		defaultceiltexture = "F_SKY1";
-		defaulttoptexture = "TREEBAC2";
-		defaultwalltexture = "TREEBAC2";
-		defaultbottomtexture = "TREEBAC2";
+		defaultfloortexture = "FLOOR0_1";
+		defaultceiltexture = "CEIL1_1";
+		defaulttoptexture = "STARTAN2";
+		defaultwalltexture = "STARTAN2";
+		defaultbottomtexture = "STARTAN2";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -37,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -3391.831f;
-		viewpositiony = 10574.31f;
-		viewscale = 0.01f;
+		viewpositionx = 4239.958f;
+		viewpositiony = -2912.583f;
+		viewscale = 0.8003165f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -50,7 +51,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 1024;
+			gridsize = 256;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
