@@ -74,16 +74,8 @@ map TITLEMAP "Title Map"
 	NoIntermission
 }
 
-map DEBUG "Debug"
-{
-	LevelNum = 1000
-	Sky1 = "bluesky2"
-	Music = "ROOMTONE"
-	SmoothLighting
-	NoIntermission
-}
 
-map DEBUG2 "Debug 2"
+map DEBUG3 "Debug 3"
 {
 	LevelNum = 1001
 	Sky1 = "zsky1"
