@@ -102,7 +102,7 @@ maps
 				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "OOB_X";
+		defaultfloortexture = "DEBUG014";
 		defaultceiltexture = "F_SKY1";
 		defaulttoptexture = "OOB_X";
 		defaultwalltexture = "OOB_X";
@@ -119,9 +119,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -780.5176f;
-		viewpositiony = 410.04f;
-		viewscale = 0.08157269f;
+		viewpositionx = -3293.295f;
+		viewpositiony = 1207.779f;
+		viewscale = 0.2329802f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -132,7 +132,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 8;
+			gridsize = 64;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
