@@ -95,7 +95,7 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\admin\\Desktop\\something_else";
+				location = "Y:\\Projects\\something_else";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -119,9 +119,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 1220.318f;
-		viewpositiony = -905.188f;
-		viewscale = 0.1378584f;
+		viewpositionx = 3082.505f;
+		viewpositiony = 379.0217f;
+		viewscale = 0.06274845f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -132,7 +132,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 128;
+			gridsize = 8;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
