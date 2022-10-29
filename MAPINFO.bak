@@ -75,7 +75,7 @@ map TITLEMAP "Title Map"
 }
 
 
-map SANDBOX1 "Sandbox 1"
+map ARCADIA "Arcadia"
 {
 	LevelNum = 1001
 	Sky1 = "zsky1"
