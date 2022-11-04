@@ -90,6 +90,9 @@ map SANDBOX1 "Sandbox 1"
 
 DoomEdNums
 {
+	18000 = Dev_Cube_1M
+	18001 = Dev_Cube_2M
+	18002 = Dev_Cube_4M
 	19001 = SPEAKER2
 	19002 = DOLPHIN
 	19003 = VELMA

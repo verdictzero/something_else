@@ -30,19 +30,6 @@ Actor HSTABSH1 17001
 	}
 }
 
-actor SPEAKER1 19000 
-	{
-	+FloorClip
-	+SOLID
-	Radius 8
-	Height 8
-	States {
-		Spawn:
-		SPK1 A -1
-		Stop
-	}
-}
-
 actor SPEAKER2 19001
 	{
 	+FloorClip
@@ -83,19 +70,6 @@ actor VELMA 19003
 	}
 }
 
-actor PALMTRE2 19004
-	{
-	+FloorClip
-	+SOLID
-	Radius 8
-	Height 8
-	States {
-		Spawn:
-		PLM2 A -1
-		Stop
-	}
-}
-
 actor FOUNTART 19005
 	{
 	+FloorClip
@@ -109,43 +83,41 @@ actor FOUNTART 19005
 	}
 }
 
-actor TREE_5 19006
+actor DEVCUB1M 18000
 	{
 	+FloorClip
 	+SOLID
-	Radius 32
-	Height 32
+	Radius 8
+	Height 8
 	States {
 		Spawn:
-		TRE5 A -1
+		DV1M A -1
 		Stop
 	}
 }
 
-actor Z_PALM 19008
+actor DEVCUB2M 18001
 	{
 	+FloorClip
 	+SOLID
-	Radius 32
-	Height 32
+	Radius 8
+	Height 8
 	States {
 		Spawn:
-		ZPLM A -1
+		DV2M A -1
 		Stop
 	}
 }
 
-actor MMDTREE 19020
+actor DEVCUB4M 18002
 	{
 	+FloorClip
 	+SOLID
-	Radius 32
-	Height 32
-	XScale 0.25
-	YScale 0.25
+	Radius 8
+	Height 8
 	States {
 		Spawn:
-		TREE A -1
+		DV4M A -1
 		Stop
 	}
 }
