@@ -77,7 +77,7 @@ Model DEVCUB1M  {
 	Path "models"
 	Model 0 "DV1MA0.obj"
 	Skin 0 "BDEV__1M"
-	Scale 1.0 1.0 1.0
+	Scale 30.0 30.0 30.0
 	FrameIndex DV1M A 0 0
 }
 
@@ -85,7 +85,7 @@ Model DEVCUB2M  {
 	Path "models"
 	Model 0 "DV2MA0.obj"
 	Skin 0 "BDEV__2M"
-	Scale 1.0 1.0 1.0
+	Scale 30.0 30.0 30.0
 	FrameIndex DV2M A 0 0
 }
 
@@ -93,6 +93,6 @@ Model DEVCUB4M  {
 	Path "models"
 	Model 0 "DV4MA0.obj"
 	Skin 0 "BDEV__4M"
-	Scale 1.0 1.0 1.0
+	Scale 30.0 30.0 30.0
 	FrameIndex DV4M A 0 0
 }
