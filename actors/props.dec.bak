@@ -121,29 +121,3 @@ actor DEVCUB4M 18002
 		Stop
 	}
 }
-
-actor GRASS_2 18003
-	{
-	+FloorClip
-	+SOLID
-	Radius 4
-	Height 4
-	States {
-		Spawn:
-		GRS2 A -1
-		Stop
-	}
-}
-
-actor GRASS_3 18004
-	{
-	+FloorClip
-	+SOLID
-	Radius 4
-	Height 4
-	States {
-		Spawn:
-		GRS3 A -1
-		Stop
-	}
-}
