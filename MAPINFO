@@ -13,9 +13,10 @@ GameInfo
 
 clearepisodes
 
-episode DEBUG
+episode SANDBOX1
 {
-	name = "DEBUG"
+	name = "SANDBOX1"
+	key = "d"
 }
 
 // ========================================================
