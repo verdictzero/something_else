@@ -96,3 +96,11 @@ Model DEVCUB4M  {
 	Scale 30.0 30.0 30.0
 	FrameIndex DV4M A 0 0
 }
+
+Model PINTREE1 {
+	Path "models"
+	Model 0 "TRE1A0.obj"
+	Skin 0 "PINTREE1"
+	Scale 1.0 1.0 1.0
+	FrameIndex TRE1 A 0 0
+}
