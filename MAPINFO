@@ -75,12 +75,11 @@ map TITLEMAP "Title Map"
 	NoIntermission
 }
 
-
 map SANDBOX1 "Sandbox 1"
 {
 	LevelNum = 1001
 	Sky1 = "zsky1"
-	Music = "DARK1"
+	Music = "WIND1R"
 	SmoothLighting
 	NoIntermission
 }
