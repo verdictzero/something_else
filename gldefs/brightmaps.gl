@@ -1,0 +1,13 @@
+// ========================================================
+// GZDoom GLDEFS - brightmaps
+// ========================================================
+
+// brightmap texture G7__0005 
+// {
+// 	map brightmaps/G7_0005B.png
+// }
+
+brightmap texture SL1___ON 
+{
+	map brightmaps/SL1_ON_B.png
+}

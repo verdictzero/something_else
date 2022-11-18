@@ -148,8 +148,6 @@ actor GRASS_3 18004
 	}
 }
 
-
-
 // Sprite TRE1A0.obj
 // Model TRE1A0.obj
 // Skin TRE1_C.png
@@ -163,6 +161,19 @@ actor PINTREE1 18005
 	States {
 		Spawn:
 		TRE1 A -1
+		Stop
+	}
+}
+
+actor ST_LGHT1 18006
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		SL1X A -1
 		Stop
 	}
 }

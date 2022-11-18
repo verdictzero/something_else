@@ -1,0 +1,21 @@
+// ========================================================
+// GZDoom GLDEFS - Materials 2
+// ========================================================
+
+material texture G7__0001
+	{
+		//auto
+	}
+
+material texture G7__0005
+	{
+		//auto
+	}
+
+material texture VELMA_C
+	{
+		normal materials/VELMA/VELMA_N.png
+		metallic materials/VELMA/VELMA_M.png
+		roughness materials/VELMA/VELMA_R.png
+		ao materials/VELMA/VELMA_A.png
+	}

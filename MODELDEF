@@ -104,3 +104,11 @@ Model PINTREE1 {
 	Scale 1.0 1.0 1.0
 	FrameIndex TRE1 A 0 0
 }
+
+Model ST_LGHT1 {
+	Path "models"
+	Model 0 "SL1XA0.obj"
+	Skin 0 "SL1___ON"
+	Scale 1.0 1.0 1.0
+	FrameIndex SL1X A 0 0
+}
