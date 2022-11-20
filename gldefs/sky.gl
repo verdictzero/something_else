@@ -52,3 +52,23 @@ Skybox zsky1
 	zsky1_up
 	zsky1_dn
 }
+
+Skybox nsky1
+{
+	nsky1_bk
+	nsky1_rt
+	nsky1_fr
+	nsky1_lf
+	nsky1_up
+	nsky1_dn
+}
+
+Skybox nsky2
+{
+	nsky2_bk
+	nsky2_rt
+	nsky2_fr
+	nsky2_lf
+	nsky2_up
+	nsky2_dn
+}

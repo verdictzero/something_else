@@ -2,6 +2,10 @@
 // GZDoom DECORATE - PROPS
 // ========================================================
 
+// ======================================
+// ============== BLOCK 17 ==============
+// ======================================
+
 Actor PALMTRE1 17000
 {
 	+FloorClip
@@ -30,58 +34,9 @@ Actor HSTABSH1 17001
 	}
 }
 
-actor SPEAKER2 19001
-	{
-	+FloorClip
-	+SOLID
-	Radius 8
-	Height 8
-	States {
-		Spawn:
-		SPK2 A -1 NoDelay A_StartSound("CAKE", 0, CHANF_LOOP) 
-		Stop
-	}
-}
-
-actor DOLPHIN 19002
-	{
-	+FloorClip
-	+SOLID
-	Radius 8
-	Height 8
-	States {
-		Spawn:
-		DLPH A -1
-		Stop
-	}
-}
-
-actor VELMA 19003
-	{
-	+FloorClip
-	+SOLID
-	+NOGRAVITY
-	Radius 8
-	Height 8
-	States {
-		Spawn:
-		VELM Z -1
-		Stop
-	}
-}
-
-actor FOUNTART 19005
-	{
-	+FloorClip
-	+SOLID
-	Radius 8
-	Height 8
-	States {
-		Spawn:
-		FART A -1
-		Stop
-	}
-}
+// ======================================
+// ============== BLOCK 18 ==============
+// ======================================
 
 actor DEVCUB1M 18000
 	{
@@ -174,6 +129,105 @@ actor ST_LGHT1 18006
 	States {
 		Spawn:
 		SL1X A -1
+		Stop
+	}
+}
+
+actor PANTHEON 18007
+	{
+	+FloorClip
+	+SOLID
+	+NOGRAVITY
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		MATT A -1
+		Stop
+	}
+}
+
+actor BG_TREE1 18008
+	{
+	+FloorClip
+	+SOLID
+	+NOGRAVITY
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		BGT1 A -1
+		Stop
+	}
+}
+
+actor BG_TREE2 18009
+	{
+	+FloorClip
+	+SOLID
+	+NOGRAVITY
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		BGT2 A -1
+		Stop
+	}
+}
+
+// ======================================
+// ============== BLOCK 19 ==============
+// ======================================
+
+actor SPEAKER2 19001
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		SPK2 A -1 NoDelay A_StartSound("CAKE", 0, CHANF_LOOP) 
+		Stop
+	}
+}
+
+actor DOLPHIN 19002
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		DLPH A -1
+		Stop
+	}
+}
+
+actor VELMA 19003
+	{
+	+FloorClip
+	+SOLID
+	+NOGRAVITY
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		VELM Z -1
+		Stop
+	}
+}
+
+actor FOUNTART 19005
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		FART A -1
 		Stop
 	}
 }
