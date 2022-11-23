@@ -112,3 +112,11 @@ Model ST_LGHT1 {
 	Scale 1.0 1.0 1.0
 	FrameIndex SL1X A 0 0
 }
+
+Model ANGELPIZ {
+	Path "models"
+	Model 0 "ANGELPIZ.obj"
+	Skin 0 "ANGELPIZ"
+	Scale 1.0 1.0 1.0
+	FrameIndex APIZ A 0 0
+}

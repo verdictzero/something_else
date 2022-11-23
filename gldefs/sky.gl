@@ -72,3 +72,13 @@ Skybox nsky2
 	nsky2_up
 	nsky2_dn
 }
+
+Skybox tsky1
+{
+	tsky1_bk
+	tsky1_rt
+	tsky1_fr
+	tsky1_lf
+	tsky1_up
+	tsky1_dn
+}

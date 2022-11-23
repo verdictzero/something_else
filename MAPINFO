@@ -70,7 +70,7 @@ map TITLEMAP "Title Map"
 {
 	LevelNum = 999
 	Sky1 = "bluesky2"
-	Music = "WIND1R"
+	Music = "VERABLUE"
 	SmoothLighting
 	NoIntermission
 }
@@ -78,8 +78,8 @@ map TITLEMAP "Title Map"
 map SANDBOX1 "Sandbox 1"
 {
 	LevelNum = 1001
-	Sky1 = "nsky1"
-	Music = "WIND1R"
+	Sky1 = "tsky1"
+	Music = "D_DM2TTL"
 	SmoothLighting
 	NoIntermission
 }

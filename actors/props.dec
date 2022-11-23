@@ -117,8 +117,8 @@ actor PINTREE1 18005
 		Spawn:
 		TRE1 A -1
 		Stop
+		}
 	}
-}
 
 actor ST_LGHT1 18006
 	{
@@ -130,8 +130,8 @@ actor ST_LGHT1 18006
 		Spawn:
 		SL1X A -1
 		Stop
+		}
 	}
-}
 
 actor PANTHEON 18007
 	{
@@ -228,6 +228,19 @@ actor FOUNTART 19005
 	States {
 		Spawn:
 		FART A -1
+		Stop
+	}
+}
+
+actor ANGELPIZ 19006
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		APIZ A -1
 		Stop
 	}
 }

@@ -2,8 +2,10 @@
 // GZDoom GLDEFS - Materials
 // ========================================================
 
-/*
-	
+// ========================================================
+// ACTIVE
+// ========================================================
+
 material texture SPK2_C
 	{
 		normal materials/SPK2/SPK2_N.png
@@ -11,6 +13,12 @@ material texture SPK2_C
 		roughness materials/SPK2/SPK2_R.png
 		ao materials/SPK2/SPK2_A.png
 	}
+
+// ========================================================
+// INACTIVE
+// ========================================================
+
+/*
 	
 material texture DLPHN_C
 	{
