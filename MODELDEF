@@ -120,3 +120,11 @@ Model ANGELPIZ {
 	Scale 1.0 1.0 1.0
 	FrameIndex APIZ A 0 0
 }
+
+Model XARSIGN1 {
+	Path "models"
+	Model 0 "XARSIGN1.obj"
+	Skin 0 "XARSIGND"
+	Scale 1.0 1.0 1.0
+	FrameIndex XARS A 0 0
+}

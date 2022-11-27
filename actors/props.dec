@@ -244,3 +244,16 @@ actor ANGELPIZ 19006
 		Stop
 	}
 }
+
+actor XARSIGN1 19007
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		XARS A -1
+		Stop
+	}
+}

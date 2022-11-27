@@ -11,3 +11,8 @@ brightmap texture SL1___ON
 {
 	map brightmaps/SL1_ON_B.png
 }
+
+brightmap texture XARSIGND
+{
+	map brightmaps/XARSIGNB.png
+}
