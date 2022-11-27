@@ -128,3 +128,11 @@ Model XARSIGN1 {
 	Scale 1.0 1.0 1.0
 	FrameIndex XARS A 0 0
 }
+
+Model ARCHANGE {
+	Path "models"
+	Model 0 "ARCHANGE.obj"
+	Skin 0 "ARCHANGE"
+	Scale 1.0 1.0 1.0
+	FrameIndex ARCH A 0 0
+}

@@ -19,3 +19,8 @@ material texture VELMA_C
 		roughness materials/VELMA/VELMA_R.png
 		ao materials/VELMA/VELMA_A.png
 	}
+	
+material texture ARCHANGE
+	{
+		//auto
+	}

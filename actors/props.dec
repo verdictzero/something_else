@@ -257,3 +257,16 @@ actor XARSIGN1 19007
 		Stop
 	}
 }
+
+actor ARCHANGE 19008
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		ARCH A -1
+		Stop
+	}
+}
