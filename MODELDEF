@@ -136,3 +136,19 @@ Model ARCHANGE {
 	Scale 1.0 1.0 1.0
 	FrameIndex ARCH A 0 0
 }
+
+Model PLACEHO1 {
+	Path "models"
+	Model 0 "PLACEHO1.obj"
+	Skin 0 "PLACEHO1"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z000 A 0 0
+}
+
+Model OBELISK1 {
+	Path "models"
+	Model 0 "OBELISK1.obj"
+	Skin 0 "OBELISK1"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z001 A 0 0
+}
