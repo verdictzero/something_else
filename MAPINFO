@@ -79,7 +79,7 @@ map SANDBOX1 "Sandbox 1"
 {
 	LevelNum = 1001
 	Sky1 = "tsky1"
-	Music = "D_DM2TTL"
+	Music = "GOVERN"
 	SmoothLighting
 	NoIntermission
 }

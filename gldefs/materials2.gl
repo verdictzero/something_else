@@ -24,3 +24,13 @@ material texture ARCHANGE
 	{
 		//auto
 	}
+
+material texture PLACEHO1
+	{
+		//auto
+	}
+
+material texture OBELISK1
+	{
+		//auto
+	}

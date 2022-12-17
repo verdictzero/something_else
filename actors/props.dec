@@ -81,6 +81,7 @@ actor GRASS_2 18003
 	{
 	+FloorClip
 	+SOLID
+	+FORCEYBILLBOARD
 	Radius 4
 	Height 4
 	States {
@@ -94,6 +95,7 @@ actor GRASS_3 18004
 	{
 	+FloorClip
 	+SOLID
+	+FORCEYBILLBOARD
 	Radius 4
 	Height 4
 	States {
@@ -270,3 +272,42 @@ actor ARCHANGE 19008
 		Stop
 	}
 }
+
+// ======================================
+// ============== BLOCK 20 ==============
+// ======================================
+
+// Note: switching over to a a serial number-esque naming schema here.
+
+actor PLACEHO1 20000
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z000 A -1
+		Stop
+	}
+}
+
+actor OBELISK1 20001
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z001 A -1
+		Stop
+	}
+}
+
+// ==============================================================
+// ============== NEW NAMING SCHEMA TRACKING NOTES ==============
+// ==============================================================
+// [actor name],[editor number],[actor sprite name]
+// PLACEHO1,20000,Z000A0
+// OBELISK1,20001,Z001A0
