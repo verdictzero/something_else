@@ -79,7 +79,16 @@ map SANDBOX1 "Sandbox 1"
 {
 	LevelNum = 1001
 	Sky1 = "tsky1"
-	Music = "GOVERN"
+	Music = "WIND1R"
+	SmoothLighting
+	NoIntermission
+}
+
+map SANDBOX2 "Sandbox 2"
+{
+	LevelNum = 1002
+	Sky1 = "tsky1"
+	Music = "WIND1R"
 	SmoothLighting
 	NoIntermission
 }

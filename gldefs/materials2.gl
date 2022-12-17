@@ -34,3 +34,8 @@ material texture OBELISK1
 	{
 		//auto
 	}
+	
+material texture EXFAN__1
+	{
+		//auto
+	}
