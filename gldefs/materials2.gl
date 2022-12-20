@@ -39,3 +39,13 @@ material texture EXFAN__1
 	{
 		//auto
 	}
+	
+material texture 3DGRASS1
+	{
+		//auto
+	}
+	
+material texture 3DSCRUB1
+	{
+		//auto
+	}

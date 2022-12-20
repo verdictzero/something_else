@@ -124,7 +124,7 @@ Model ANGELPIZ {
 Model XARSIGN1 {
 	Path "models"
 	Model 0 "XARSIGN1.obj"
-	Skin 0 "XARSIGND"
+	Skin 0 "XARSIGN2"
 	Scale 1.0 1.0 1.0
 	FrameIndex XARS A 0 0
 }
@@ -140,7 +140,7 @@ Model ARCHANGE {
 Model PLACEHO1 {
 	Path "models"
 	Model 0 "PLACEHO1.obj"
-	Skin 0 "PLACEHO1"
+	Skin 0 "PLACEHO2"
 	Scale 100.0 100.0 100.0
 	FrameIndex Z000 A 0 0
 }
@@ -156,7 +156,39 @@ Model OBELISK1 {
 Model EXFAN__1 {
 	Path "models"
 	Model 0 "EX_FAN.obj"
-	Skin 0 "EXHAUST1"
+	Skin 0 "EXHAUST3"
 	Scale 100.0 100.0 100.0
 	FrameIndex Z002 A 0 0
 }
+
+Model 3DGRASS1 {
+	Path "models"
+	Model 0 "TALL_GRASS_1.obj"
+	Skin 0 "3DGRAS_A"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z003 A 0 0
+}
+
+Model 3DGRASS2 {
+	Path "models"
+	Model 0 "TALL_GRASS_2.obj"
+	Skin 0 "3DGRAS_A"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z004 A 0 0
+}
+
+Model 3DSCRUB1 {
+	Path "models"
+	Model 0 "SCRUB_SHRUB_1.obj"
+	Skin 0 "3DSCRU_A"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z005 A 0 0
+} 
+
+Model 3DSCRUB2 {
+	Path "models"
+	Model 0 "SCRUB_SHRUB_2.obj"
+	Skin 0 "3DSCRU_A"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z006 A 0 0
+	}

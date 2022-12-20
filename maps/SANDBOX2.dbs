@@ -27,8 +27,8 @@ maps
 				requiredarchives = "";
 			}
 		}
-		viewpositiony = 24472.2f;
-		viewpositionx = 13824.51f;
+		viewpositiony = 23426.1f;
+		viewpositionx = 16850.08f;
 		
 		testprecommand
 		{
@@ -48,11 +48,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 1;
+			gridsize = 1024;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 33.45984f;
+		viewscale = 0.1760563f;
 		
 		reloadresourceprecommand
 		{
@@ -62,15 +62,6 @@ maps
 		}
 		defaulttoptexture = "G7__0039";
 		overridebottomtexture = false;
-		
-		fieldtypes
-		{
-			
-			sector
-			{
-				user_managed_3d_floor = 3;
-			}
-		}
 		defaultbottomtexture = "G7__0039";
 		defaultfloortexture = "DEBUG014";
 		overrideceilheight = false;
@@ -92,6 +83,15 @@ maps
 			autocloseonsuccess = true;
 			exitcodeiserror = true;
 			stderriserror = true;
+		}
+		
+		fieldtypes
+		{
+			
+			sector
+			{
+				user_managed_3d_floor = 3;
+			}
 		}
 	}
 }

@@ -318,9 +318,59 @@ actor EXFAN__1 20002
 	}
 }
 
+actor 3DGRASS1 20003
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z003 A -1
+		Stop
+	}
+}
+
+actor 3DGRASS2 20004
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z004 A -1
+		Stop
+	}
+}
+
+actor 3DSCRUB1 20005
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z005 A -1
+		Stop
+	}
+}
+
+actor 3DSCRUB2 20006
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z006 A -1
+		Stop
+	}
+}
+
 // ==============================================================
 // ============== NEW NAMING SCHEMA TRACKING NOTES ==============
 // ==============================================================
-// [actor name],[editor number],[actor sprite name]
-// PLACEHO1,20000,Z000A0
-// OBELISK1,20001,Z001A0
+// . . . put something useful here . . .
