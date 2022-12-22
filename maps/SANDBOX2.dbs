@@ -20,15 +20,15 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\admin\\Desktop\\something_else";
+				location = "G:\\something_else";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		viewpositiony = 23426.1f;
-		viewpositionx = 16850.08f;
+		viewpositiony = 20493.71f;
+		viewpositionx = 12199.3f;
 		
 		testprecommand
 		{
@@ -48,11 +48,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 1024;
+			gridsize = 32;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.1760563f;
+		viewscale = 1.124543f;
 		
 		reloadresourceprecommand
 		{

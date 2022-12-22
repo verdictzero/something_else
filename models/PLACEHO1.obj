@@ -1,10 +1,10 @@
 # Wavefront Obj file
 # 
 # verts: 1433 uv-s: 2251
-mtllib Placeholder Statue v1.mtl
+# mtllib Placeholder Statue v1.mtl
 
 g Placeholder_Statue
-#pivot 0.000000 0.000000 0.000000
+# pivot 0.000000 0.000000 0.000000
 
 v 0.161783 -0.127056 0.000001
 v -0.165240 -0.127056 0.000001
@@ -5464,7 +5464,7 @@ vn 0.050409 0.704777 -0.707635
 vn 0.632545 0.314522 -0.707787
 # 1768 normals
 
-usemtl Material.001
+# usemtl Material.001
 s 1
 f 180/1/1 491/2/2 181/3/3
 f 458/7/7 323/8/8 298/9/9

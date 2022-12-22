@@ -1,0 +1,11 @@
+// ==============================================================
+// ============== NEW NAMING SCHEMA TRACKING NOTES ==============
+// ==============================================================
+
+[ACTOR]		[EDITOR NO.]	[SPRITE]	[MODEL]		[TEXTURE]
+
+3DTREE_2	20008 			Z008A0		3DTREE_2	3DTREE_2
+SODA_1A		20009			Z009A0		SODA_1A		SODA_1A
+SODA_1B		20010			Z010A0		SODA_1B		SODA_1B
+SATDISH1	20011			Z011A0		SATDISH1	SATDISH1
+DEADLEAV	20012			Z012A0		DEADLEAV	DEADLEAV

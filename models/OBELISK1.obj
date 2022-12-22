@@ -1,10 +1,10 @@
 # Wavefront Obj file
 # 
 # verts: 1425 uv-s: 3839
-mtllib Lore Relevant Obelisk v1.mtl
+# mtllib Lore Relevant Obelisk v1.mtl
 
 g Gear.005
-#pivot 0.000000 0.000000 0.000000
+# pivot 0.000000 0.000000 0.000000
 
 v 0.000000 4.875645 0.000000
 v 0.000000 4.900878 0.371039
@@ -5520,7 +5520,7 @@ vn 0.999998 0.001659 0.001073
 vn 0.557544 -0.615052 -0.557544
 # 244 normals
 
-usemtl default
+# usemtl default
 f 241/1/1 239/2/1 777/3/1
 f 145/4/2 136/5/2 130/6/2
 f 252/7/3 256/8/4 253/9/4

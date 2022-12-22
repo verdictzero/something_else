@@ -370,7 +370,80 @@ actor 3DSCRUB2 20006
 	}
 }
 
-// ==============================================================
-// ============== NEW NAMING SCHEMA TRACKING NOTES ==============
-// ==============================================================
-// . . . put something useful here . . .
+actor 3DTREE_1 20007
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z007 A -1
+		Stop
+	}
+}
+
+actor 3DTREE_2 20008
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z008 A -1
+		Stop
+	}
+}
+
+actor SODA_1A 20009
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z009 A -1
+		Stop
+	}
+}
+
+actor SODA_1B 20010
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z010 A -1
+		Stop
+	}
+}
+
+actor SATDISH1 20011
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z011 A -1
+		Stop
+	}
+}
+
+actor DEADLEAV 20012
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z012 A -1
+		Stop
+	}
+}

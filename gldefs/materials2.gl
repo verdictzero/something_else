@@ -49,3 +49,43 @@ material texture 3DSCRUB1
 	{
 		//auto
 	}
+	
+material texture 3DGRASS2
+	{
+		//auto
+	}
+	
+material texture 3DSCRUB2
+	{
+		//auto
+	}
+	
+material texture 3DTREE_1
+	{
+		//auto
+	}
+	
+material texture 3DTREE_2
+	{
+		//auto
+	}
+	
+material texture SODA_1A
+	{
+		//auto
+	}
+	
+material texture SODA_1B
+	{
+		//auto
+	}
+	
+material texture SATDISH1
+	{
+		//auto
+	}
+	
+material texture DEADLEAV
+	{
+		//auto
+	}

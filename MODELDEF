@@ -192,3 +192,51 @@ Model 3DSCRUB2 {
 	Scale 100.0 100.0 100.0
 	FrameIndex Z006 A 0 0
 	}
+	
+Model 3DTREE_1 {
+	Path "models"
+	Model 0 "3DTREE_1.obj"
+	Skin 0 "BARK_001"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z007 A 0 0
+	}
+	
+Model 3DTREE_2 {
+	Path "models"
+	Model 0 "3DTREE_2.obj"
+	Skin 0 "BARK_001"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z008 A 0 0
+	}
+	
+Model SODA_1A {
+	Path "models"
+	Model 0 "SODA_1A.obj"
+	Skin 0 "SODA_1A"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z009 A 0 0
+	}
+	
+Model SODA_1B {
+	Path "models"
+	Model 0 "SODA_1B.obj"
+	Skin 0 "SODA_1B"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z010 A 0 0
+	}
+	
+Model SATDISH1 {
+	Path "models"
+	Model 0 "SATDISH1.obj"
+	Skin 0 "SATDISH1"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z011 A 0 0
+	}
+	
+Model DEADLEAV {
+	Path "models"
+	Model 0 "DEADLEAV.obj"
+	Skin 0 "DEADLEAV"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z012 A 0 0
+	}
