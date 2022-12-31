@@ -13,9 +13,9 @@ GameInfo
 
 clearepisodes
 
-episode SANDBOX1
+episode SANDBOX2
 {
-	name = "SANDBOX1"
+	name = "SANDBOX2"
 	key = "d"
 }
 

@@ -447,3 +447,29 @@ actor DEADLEAV 20012
 		Stop
 	}
 }
+
+actor VENDMACH 20013
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z013 A -1
+		Stop
+	}
+}
+
+actor SODATRAS 20014
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z014 A -1
+		Stop
+	}
+}

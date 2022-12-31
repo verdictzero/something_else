@@ -89,3 +89,13 @@ material texture DEADLEAV
 	{
 		//auto
 	}
+	
+material texture VENDMACH
+	{
+		//auto
+	}
+	
+material texture SODATRAS
+	{
+		//auto
+	}

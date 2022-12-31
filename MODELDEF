@@ -240,3 +240,19 @@ Model DEADLEAV {
 	Scale 100.0 100.0 100.0
 	FrameIndex Z012 A 0 0
 	}
+	
+Model VENDMACH {
+	Path "models"
+	Model 0 "VENDMACH.obj"
+	Skin 0 "VENDMACH"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z013 A 0 0
+	}
+	
+Model SODATRAS {
+	Path "models"
+	Model 0 "SODATRAS.obj"
+	Skin 0 "SODA_1B"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z014 A 0 0
+	}

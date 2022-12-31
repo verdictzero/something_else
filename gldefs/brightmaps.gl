@@ -16,3 +16,8 @@ brightmap texture XARSIGND
 {
 	map brightmaps/XARSIGNB.png
 }
+
+brightmap texture VENDMACH
+{
+	map brightmaps/VENDMA_B.tga
+}

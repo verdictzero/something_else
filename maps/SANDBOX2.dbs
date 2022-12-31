@@ -20,15 +20,15 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "G:\\something_else";
+				location = "D:\\GZDoom Projects\\something_else";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		viewpositiony = 23690.99f;
-		viewpositionx = 14770.88f;
+		viewpositiony = 24207.43f;
+		viewpositionx = 15056.49f;
 		
 		testprecommand
 		{
@@ -48,11 +48,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 32;
+			gridsize = 4;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 1.124543f;
+		viewscale = 0.2329807f;
 		
 		reloadresourceprecommand
 		{
