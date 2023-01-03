@@ -20,15 +20,15 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "D:\\GZDoom Projects\\something_else";
+				location = "C:\\Users\\admin\\Desktop\\something_else";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		viewpositiony = 24207.43f;
-		viewpositionx = 15056.49f;
+		viewpositiony = 22203.18f;
+		viewpositionx = 13127.44f;
 		
 		testprecommand
 		{
@@ -48,11 +48,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 4;
+			gridsize = 64;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.2329807f;
+		viewscale = 0.2329806f;
 		
 		reloadresourceprecommand
 		{
@@ -83,6 +83,23 @@ maps
 			autocloseonsuccess = true;
 			exitcodeiserror = true;
 			stderriserror = true;
+		}
+		
+		plugins
+		{
+			
+			threedfloormode
+			{
+				
+				controlsectorarea
+				{
+					usecustomtagrange = false;
+					outerleft = -512;
+					outerright = 0;
+					outertop = 512;
+					outerbottom = 0;
+				}
+			}
 		}
 		
 		fieldtypes

@@ -2,7 +2,7 @@
 // GZDoom ANIMDEFS
 // ========================================================
 
-// WATER
+// WATER 2
 texture WAT201
     pic WAT201 tics 2
     pic WAT202 tics 2
@@ -28,6 +28,33 @@ texture WAT201
     pic WAT222 tics 2
 	pic WAT223 tics 2
     pic WAT224 tics 2
+	
+// WATER 3	
+texture WAT301
+    pic WAT301 tics 2
+    pic WAT302 tics 2
+    pic WAT303 tics 2
+    pic WAT304 tics 2
+	pic WAT305 tics 2
+    pic WAT306 tics 2
+    pic WAT307 tics 2
+    pic WAT308 tics 2
+    pic WAT309 tics 2
+    pic WAT310 tics 2
+    pic WAT311 tics 2
+    pic WAT312 tics 2
+	pic WAT313 tics 2
+    pic WAT314 tics 2
+    pic WAT315 tics 2
+    pic WAT316 tics 2
+    pic WAT317 tics 2
+    pic WAT318 tics 2
+    pic WAT319 tics 2
+    pic WAT320 tics 2
+    pic WAT321 tics 2
+    pic WAT322 tics 2
+	pic WAT323 tics 2
+    pic WAT324 tics 2
 
 // WATERFALL
 texture WFALLA1
