@@ -248,11 +248,19 @@ Model VENDMACH {
 	Scale 100.0 100.0 100.0
 	FrameIndex Z013 A 0 0
 	}
-	
+
 Model SODATRAS {
 	Path "models"
 	Model 0 "SODATRAS.obj"
 	Skin 0 "SODA_1B"
 	Scale 100.0 100.0 100.0
 	FrameIndex Z014 A 0 0
+	}
+	
+Model SUBBUS_1 {
+	Path "models"
+	Model 0 "sub_station_bus_truss_1.obj"
+	Skin 0 "SUBBUS_1"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z015 A 0 0
 	}

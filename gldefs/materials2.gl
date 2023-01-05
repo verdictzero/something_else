@@ -99,3 +99,8 @@ material texture SODATRAS
 	{
 		//auto
 	}
+	
+material texture SUBBUS_1
+	{
+		//auto
+	}

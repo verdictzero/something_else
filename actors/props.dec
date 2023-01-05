@@ -473,3 +473,15 @@ actor SODATRAS 20014
 		Stop
 	}
 }
+
+actor SUBBUS_1 20015
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z015 A -1
+		Stop
+	}
