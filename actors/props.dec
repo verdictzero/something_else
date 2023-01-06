@@ -485,3 +485,17 @@ actor SUBBUS_1 20015
 		Z015 A -1
 		Stop
 	}
+}
+	
+actor SUBSTA_1 20016
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		Z016 A -1
+		Stop
+	}
+}

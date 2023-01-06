@@ -104,3 +104,8 @@ material texture SUBBUS_1
 	{
 		//auto
 	}
+	
+material texture SUBSTA_1
+	{
+		//auto
+	}

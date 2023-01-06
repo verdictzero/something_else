@@ -264,3 +264,11 @@ Model SUBBUS_1 {
 	Scale 100.0 100.0 100.0
 	FrameIndex Z015 A 0 0
 	}
+	
+Model SUBSTA_1 {
+	Path "models"
+	Model 0 "random_electrical_device_2.obj"
+	Skin 0 "SUBSTA_1"
+	Scale 100.0 100.0 100.0
+	FrameIndex Z016 A 0 0
+	}
